@@ -3,7 +3,7 @@
 <h2>Numer<em>Cam</em></h2>
 </hr><hr/><hr/>
 
-FREE Open-Source CAM solution for creating Gcode G00(Rapid)
+CAM solution for creating Gcode G00(Rapid)
 
 NOT SURE WHERE THIS WILL GO BUT. LETS G0 :)
 
